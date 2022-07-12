@@ -1,0 +1,15 @@
+D:\devs\division\bin\Debug\net6.0\division.exe
+D:\devs\division\bin\Debug\net6.0\division.deps.json
+D:\devs\division\bin\Debug\net6.0\division.runtimeconfig.json
+D:\devs\division\bin\Debug\net6.0\division.dll
+D:\devs\division\bin\Debug\net6.0\division.pdb
+D:\devs\division\obj\Debug\net6.0\division.csproj.AssemblyReference.cache
+D:\devs\division\obj\Debug\net6.0\division.GeneratedMSBuildEditorConfig.editorconfig
+D:\devs\division\obj\Debug\net6.0\division.AssemblyInfoInputs.cache
+D:\devs\division\obj\Debug\net6.0\division.AssemblyInfo.cs
+D:\devs\division\obj\Debug\net6.0\division.csproj.CoreCompileInputs.cache
+D:\devs\division\obj\Debug\net6.0\division.dll
+D:\devs\division\obj\Debug\net6.0\refint\division.dll
+D:\devs\division\obj\Debug\net6.0\division.pdb
+D:\devs\division\obj\Debug\net6.0\division.genruntimeconfig.cache
+D:\devs\division\obj\Debug\net6.0\ref\division.dll
