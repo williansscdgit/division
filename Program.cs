@@ -1,13 +1,7 @@
 ﻿//Divisao
 using division.classes;
 
-var pessoa = new Pessoa();
-pessoa.ID = 1;
-pessoa.Nome = "Willian Silva";
-pessoa.Phone = "(73)98805-8828";
-
-
-Console.Write($"{pessoa.Nome} Digite a quantidade de divisões: ");
+Console.Write("Digite a quantidade de divisões: ");
 int limit = int.Parse(Console.ReadLine());
 
 for (int i = 0; i < limit; i++)
